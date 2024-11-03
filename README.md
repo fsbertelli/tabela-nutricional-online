@@ -14,12 +14,12 @@ A Calculadora de Calorias dos Alimentos é uma aplicação web que permite aos u
 - API do Open Food Facts
 
 ## Autores
-[Felipe Bertelli dos Santos] - Estudante de Análise e Desenvolvimento de Sistemas - UNIP
-[Fernanda Melo] - Estudante de Análise e Desenvolvimento de Sistemas - UNIP
-[Jean Lucas Gomes Gama] - Estudante de Análise e Desenvolvimento de Sistemas - UNIP
-[Rony Siqueira da Silva] - Estudante de Análise e Desenvolvimento de Sistemas - UNIP
-[Tiago Gonzaga da Silva] - Estudante de Análise e Desenvolvimento de Sistemas - UNIP
-[Marcos Antonio do Carmo Alves] - Estudante de Análise e Desenvolvimento de Sistemas - UNIP
+- [Felipe Bertelli dos Santos] - Estudante de Análise e Desenvolvimento de Sistemas - UNIP
+- [Fernanda Melo] - Estudante de Análise e Desenvolvimento de Sistemas - UNIP
+- [Jean Lucas Gomes Gama] - Estudante de Análise e Desenvolvimento de Sistemas - UNIP
+- [Rony Siqueira da Silva] - Estudante de Análise e Desenvolvimento de Sistemas - UNIP
+- [Tiago Gonzaga da Silva] - Estudante de Análise e Desenvolvimento de Sistemas - UNIP
+- [Marcos Antonio do Carmo Alves] - Estudante de Análise e Desenvolvimento de Sistemas - UNIP
 
 ---
 
